@@ -1,1 +1,7 @@
+<<<<<<< HEAD
  I have to work hard in science and math! I AM DOING GOOOOOOOOOD
+=======
+ I have to work hard in science and math!.I am changed!
+
+I am going ! big one
+>>>>>>> ui
